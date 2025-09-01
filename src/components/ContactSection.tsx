@@ -127,8 +127,8 @@ const ContactSection = () => {
                 <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center mx-auto mb-4">
                   <MapPin className="w-6 h-6 text-primary" />
                 </div>
-                <h3 className="font-semibold text-gray-900 mb-2">Location</h3>
-                <p className="text-gray-600">New York, NY</p>
+                <h3 className="font-semibold text-gray-900 mb-2">Office Address</h3>
+                <p className="text-gray-600">243,Lawyers Chamber,2nd Floor,Behind District Court,Bhopal</p>
               </div>
             </div>
           </div>
