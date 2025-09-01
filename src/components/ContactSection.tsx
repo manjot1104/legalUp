@@ -112,7 +112,7 @@ const ContactSection = () => {
                   <Mail className="w-6 h-6 text-primary" />
                 </div>
                 <h3 className="font-semibold text-gray-900 mb-2">Email</h3>
-                <p className="text-gray-600">contact@legalup.com</p>
+                <p className="text-gray-600">shrutiyadav09@outlook.com</p>
               </div>
               
               <div className="bg-white p-6 rounded-2xl shadow-elegant text-center">
@@ -120,7 +120,7 @@ const ContactSection = () => {
                   <Phone className="w-6 h-6 text-secondary" />
                 </div>
                 <h3 className="font-semibold text-gray-900 mb-2">Phone</h3>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+91 7000896466</p>
               </div>
               
               <div className="bg-white p-6 rounded-2xl shadow-elegant text-center">
